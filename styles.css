@@ -1,0 +1,40 @@
+
+p { font-style: italic ;
+color:rgb(10, 0, 3);
+font-family:cursive}
+
+
+ span{font-weight: bold ;}
+
+ul{ list-style:none ;}
+
+h3{font-family:cursive}
+div{font-family:cursive}
+
+.dog{
+    width:300px;
+    height:1000px;
+    padding:1.5em;
+    margin: 0.5em;
+    display:flex;
+    flex-wrap:wrap;
+    
+        background: url(dog1.jpg);
+    border: 1px solid brown;
+    }
+
+        .box{
+            padding:1em;
+            margin: 0.5em;
+            border:1px solid brown;
+        }
+        
+      
+    
+
+.picture{
+    border: 1px solid black;
+    width:300px;
+    height:200px;
+
+}
